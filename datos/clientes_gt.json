@@ -1,0 +1,22 @@
+{
+  "_comentario": "Padrón de clientes del CEDIS. Los nombres coinciden con la columna 'destino' de los archivos de pedidos, para que se pueda encadenar validar_recepcion -> consolidar_carga -> planificar_ruta sin transformar nada.",
+  "cedis": {
+    "nombre": "CEDIS Villa Nueva",
+    "lat": 14.5261,
+    "lon": -90.5875
+  },
+  "clientes": [
+    { "nombre": "Abarroteria La Bendicion", "lat": 14.599, "lon": -90.5133, "minutos_servicio": 15 },
+    { "nombre": "Tienda El Ahorro", "lat": 14.605, "lon": -90.519, "minutos_servicio": 10 },
+    { "nombre": "Super Mixco Centro", "lat": 14.628, "lon": -90.6065, "minutos_servicio": 20 },
+    { "nombre": "Deposito San Cristobal", "lat": 14.61, "lon": -90.596, "minutos_servicio": 18 },
+    { "nombre": "Comercial Villa Hermosa", "lat": 14.543, "lon": -90.572, "minutos_servicio": 12 },
+    { "nombre": "Minimercado Bárcenas", "lat": 14.517, "lon": -90.618, "minutos_servicio": 8 },
+    { "nombre": "Cafeteria La Reforma", "lat": 14.59, "lon": -90.515, "minutos_servicio": 8 },
+    { "nombre": "Distribuidora Amatitlan", "lat": 14.487, "lon": -90.616, "minutos_servicio": 22 },
+    { "nombre": "Tienda El Lago", "lat": 14.47, "lon": -90.605, "minutos_servicio": 10 },
+    { "nombre": "Mayoreo Chimaltenango", "lat": 14.661, "lon": -90.82, "minutos_servicio": 25 },
+    { "nombre": "Abarrotes La Antigua", "lat": 14.5586, "lon": -90.7295, "minutos_servicio": 15 },
+    { "nombre": "Hotel Casa Colonial", "lat": 14.562, "lon": -90.734, "minutos_servicio": 10 }
+  ]
+}

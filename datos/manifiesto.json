@@ -1,0 +1,10 @@
+{
+  "lote_corrupto.csv": {
+    "crc32": "a2274480",
+    "registros": 12
+  },
+  "lote_ok.csv": {
+    "crc32": "4e4c3bb1",
+    "registros": 12
+  }
+}

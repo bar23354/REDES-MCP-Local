@@ -1,0 +1,8 @@
+# El CRC-32 se calcula sobre los bytes del archivo. Si git convirtiera los
+# finales de línea a CRLF al clonar en Windows, los CRC del manifiesto dejarían
+# de coincidir. Se fija LF para los datos de prueba y el código.
+*.csv text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.ndjson text eol=lf
+*.md text eol=lf

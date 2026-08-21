@@ -1,0 +1,18 @@
+[project]
+name = "mcp-logistica"
+version = "1.0.0"
+description = "Servidor MCP local de logística para el CEDIS. JSON-RPC 2.0 sin SDK de MCP."
+requires-python = ">=3.10"
+# Sin dependencias a propósito: todo el servidor corre sobre la biblioteca
+# estándar de Python (json, zlib, math, argparse, logging).
+dependencies = []
+
+[project.scripts]
+mcp-logistica = "mcp_logistica.__main__:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["mcp_logistica*"]

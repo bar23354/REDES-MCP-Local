@@ -1,0 +1,13 @@
+id_pedido,sucursal,destino,peso_kg,volumen_m3
+PED-0001,SUC-ZONA10,Abarroteria La Bendicion,320.5,3.8
+PED-0002,SUC-ZONA10,Tienda El Ahorro,180.0,2.1
+PED-0003,SUC-MIXCO,Super Mixco Centro,540.75,6.4
+PED-0004,SUC-MIXCO,Deposito San Cristobal,410.0,4.9
+PED-0005,SUC-VILLANUEVA,Comercial Villa Hermosa,265.25,3.2
+PED-0006,SUC-VILLANUEVA,Minimercado Bárcenas,150.0,1.7
+PED-0007,SUC-ZONA10,Cafeteria La Reforma,95.5,1.2
+PED-0008,SUC-AMATITLAN,Distribuidora Amatitlan,620.0,7.5
+PED-0009,SUC-AMATITLAN,Tienda El Lago,210.0,2.6
+PED-0010,SUC-CHIMALTENANGO,Mayoreo Chimaltenango,480.0,5.8
+PED-0011,SUC-ANTIGUA,Abarrotes La Antigua,340.0,4.1
+PED-0012,SUC-ANTIGUA,Hotel Casa Colonial,125.75,1.5
